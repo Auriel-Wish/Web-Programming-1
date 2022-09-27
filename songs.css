@@ -1,0 +1,29 @@
+song {
+    display: block;
+    background-color: rgb(153, 231, 247);
+    color: white;
+    margin: 20px auto;
+    width: 50%;
+    text-align: center;
+    padding-bottom: 20px;
+    box-shadow: 1px 1px 7px rgb(215, 215, 215);
+}
+
+song > * {
+    display: block;
+    margin: 10px 0;
+}
+
+artists {
+    background-color: white;
+    color: rgb(153, 231, 247);
+    padding: 10px;
+    width: 40%;
+    margin: 0 auto;
+    box-shadow: 1px 1px 10px rgb(173, 173, 173);
+    font-size: 35px;
+}
+
+name {
+    font-size: 30px;
+}

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="songs.css" type="text/css"?>
+
+<songs>
+    <song>
+        <artists>
+            <artist>One Republic</artist>
+        </artists>
+        <name>Didn't I</name>
+        <genres>
+            <genre>Pop</genre>
+            <genre>Pop Rock</genre>
+        </genres>
+        <release_year>2021</release_year>
+    </song>
+    <song>
+        <artists>
+            <artist>Quinn XCII</artist>
+        </artists>
+        <name>Notice Me</name>
+        <genres>
+            <genre>Indie Pop</genre>
+        </genres>
+        <release_year>2020</release_year>
+    </song>
+    <song>
+        <artists>
+            <artist>Quinn XCII</artist>
+        </artists>
+        <name>Hey, Goodbye</name>
+        <genres>
+            <genre>Indie Pop</genre>
+        </genres>
+        <release_year>2021</release_year>
+    </song>
+    <song>
+        <artists>
+            <artist>Quinn XCII</artist>
+        </artists>
+        <name>Stacy</name>
+        <genres>
+            <genre>Indie Pop</genre>
+        </genres>
+        <release_year>2020</release_year>
+    </song>
+    <song>
+        <artists>
+            <artist>Dexys Midnight Runners</artist>
+        </artists>
+        <name>Come On Eileen</name>
+        <genres>
+            <genre>Alternative</genre>
+            <genre>Pop</genre>
+        </genres>
+        <release_year>1982</release_year>
+    </song>
+    <song>
+        <artists>
+            <artist>Jukebox The Ghost</artist>
+        </artists>
+        <name>Stay the Night</name>
+        <genres>
+            <genre>Pop</genre>
+        </genres>
+        <release_year>2017</release_year>
+    </song>
+    <song>
+        <artists>
+            <artist>I Hear Jimmy</artist>
+        </artists>
+        <name>New Boots</name>
+        <genres>
+            <genre>Hip-Hop</genre>
+            <genre>Rap</genre>
+        </genres>
+        <release_year>2021</release_year>
+    </song>
+    <song>
+        <artists>
+            <artist>Usher</artist>
+            <artist>Pitbull</artist>
+        </artists>
+        <name>DJ Got Us Fallin' In Love</name>
+        <genres>
+            <genre>Pop</genre>
+        </genres>
+        <release_year>2010</release_year>
+    </song>
+    <song>
+        <artists>
+            <artist>David Guetta</artist>
+            <artist>Sia</artist>
+        </artists>
+        <name>Titanium</name>
+        <genres>
+            <genre>Pop</genre>
+        </genres>
+        <release_year>2011</release_year>
+    </song>
+    <song>
+        <artists>
+            <artist>Flo Rida</artist>
+            <artist>T-Pain</artist>
+        </artists>
+        <name>Low</name>
+        <genres>
+            <genre>Hip-Hop</genre>
+            <genre>Rap</genre>
+        </genres>
+        <release_year>2007</release_year>
+    </song>
+    <song>
+        <artists>
+            <artist>Iyaz</artist>
+        </artists>
+        <name>Replay</name>
+        <genres>
+            <genre>Pop</genre>
+        </genres>
+        <release_year>2009</release_year>
+    </song>
+    <song>
+        <artists>
+            <artist>Fall Out Boy</artist>
+        </artists>
+        <name>Centuries</name>
+        <genres>
+            <genre>Pop Rock</genre>
+        </genres>
+        <release_year>2014</release_year>
+    </song>
+</songs>
